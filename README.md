@@ -120,14 +120,14 @@ affan = {
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <b>☁️ AWS Cloud Club Captain</b><br/>
+      <b>☁️ AWS Student Builder Group Leader</b><br/>
       <sub>Bahria University · Feb 2026 – Present</sub><br/><br/>
-      <sub>Running workshops, mentoring students in cloud fundamentals, and managing end-to-end club operations focused on AWS technologies.</sub>
+      <sub>Running workshops, mentoring students in cloud fundamentals, and managing end-to-end group operations focused on AWS technologies.</sub>
     </td>
     <td align="center" width="50%">
-      <b>⚙️ Operations & Management Head</b><br/>
-      <sub>Bahria University Developers Society · Nov 2025 – Present</sub><br/><br/>
-      <sub>Core team member handling event planning, logistics, sponsor coordination, and driving community-level technical learning.</sub>
+      <b>👑 President</b><br/>
+      <sub>Bahria University Developers Society · 2026 – Present</sub><br/><br/>
+      <sub>Leading BUDs as President — overseeing all technical events, society operations, team management, and community-level developer initiatives.</sub>
     </td>
   </tr>
 </table>
