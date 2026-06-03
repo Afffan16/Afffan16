@@ -34,7 +34,7 @@ affan = {
     "location"    : "Karachi, Pakistan 🇵🇰",
     "education"   : "BS Software Engineering @ Bahria University (GPA: 3.56)",
     "status"      : "Open to Data Engineer / Data Analyst / SQL Developer roles",
-    "community"   : ["AWS Cloud Club Captain @ BU", "Core Team @ BUDs"],
+    "community"   : ["AWS Student Builder Group Leader @ BU", "President @ BUDs"],
     "focus"       : ["ETL/ELT Pipelines", "Data Warehousing", "Cloud Infrastructure"],
     "currently"   : "Building production-grade data systems on AWS + Snowflake",
 }
