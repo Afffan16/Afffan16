@@ -75,9 +75,9 @@ affan = {
 ### 📊 GitHub Stats
 
 <div align="center">
-
+    
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afffan16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afffan16&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Afffan16&theme=tokyonight"/>
 
 </div>
 
