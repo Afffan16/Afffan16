@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 affan = {
     "role"        : "Cloud Data Engineer | Software Engineer",
     "location"    : "Karachi, Pakistan 🇵🇰",
-    "education"   : "BS Software Engineering @ Bahria University (GPA: 3.56)",
-    "status"      : "Open to Data Engineer / Data Analyst / SQL Developer roles",
-    "community"   : ["AWS Student Builder Group Leader @ BU", "President @ BUDs"],
+    "education"   : "BS Software Engineering @Bahria University",
+    "status"      : "Open to Software Engineer/ Data Engineer / Cloud Engineer / Data Analyst / SQL Developer roles",
+    "community"   : ["AWS Student Builder Group Leader @BU", "President @BUDs"],
     "focus"       : ["ETL/ELT Pipelines", "Data Warehousing", "Cloud Infrastructure"],
     "currently"   : "Building production-grade data systems on AWS + Snowflake",
 }
@@ -64,6 +64,8 @@ affan = {
 
 **Languages & Tools**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
