@@ -75,16 +75,6 @@ affan = {
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Afffan16&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🗂️ Featured Projects
 
 | Project | Description | Stack |
